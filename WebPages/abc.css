@@ -1,0 +1,64 @@
+
+       body
+       {
+       	background-color: brown;
+       }
+       #mymenu
+       {
+       	background-color:rgba(0,0,0,0.5);
+       	color:white;
+       	text-align: right;
+       }
+       #mymenu ul li
+       {
+       	display:inline-block;
+       	padding:12px;
+       }
+       #mymenu ul li:hover
+       {
+       	background-color:black;
+            color:white;
+       }
+       a
+       {
+            color:yellow;
+       }
+       #data
+       {
+       	margin-top:200px;
+       }
+       table
+       {
+       	background-color:rgba(0,0,0,0.5);
+       	color:white;
+       }
+            #tab
+            {
+                  margin-top: 10px;
+                  margin-left: 400px;
+            }
+       .B
+       {
+       	padding:10px;
+       	background:linear-gradient(gray,black);
+       	color:white;
+       	border-radius:0px 25px 0px 25px;
+       }     
+
+            #list
+            {
+                  align-items: right;
+            }
+            #list ul li 
+            {
+           color:black;
+             display:inline-block;
+             padding:12px;
+             
+            }
+            #list:hover
+            {
+                  color:yellow;
+                  padding:18px;
+            }
+      
